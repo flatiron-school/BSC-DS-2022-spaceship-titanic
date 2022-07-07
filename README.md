@@ -440,4 +440,4 @@ submission_df.to_csv('sample_submission.csv', index=False)
 
 ## Submit Predictions
 
-Once you have saved you predictions to a csv file, you can submit them [here](https://www.kaggle.com/competitions/spaceship-titanic-bsc-ds-2022/)
+Once you have saved you predictions to a csv file, you can submit them [here](https://www.kaggle.com/competitions/spaceship-titanic-bsc-ds-2022/submit)
